@@ -1,1 +1,1 @@
-iniciacion de en git para aprender
+git es un buen programa para aprender 
